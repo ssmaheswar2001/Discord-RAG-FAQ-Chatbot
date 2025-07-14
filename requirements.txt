@@ -1,0 +1,11 @@
+python-docx
+langchain
+sentence-transformers
+pymongo
+tf-keras
+tiktoken
+python-dotenv 
+unstructured
+pypdf
+azure-ai-inference
+openai
