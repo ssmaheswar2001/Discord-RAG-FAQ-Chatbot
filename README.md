@@ -26,6 +26,10 @@ Discord RAG Chatbot/
 └── README.md                     # This file
 ```
 
+## 🎥 Demo
+
+[Click here to watch the demo video](Demo_Video/RAG%20Chatbot%20Demo.mp4)
+
 ## 🛠️ Prerequisites
 
 - Python 3.8+
@@ -155,3 +159,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Sentence Transformers](https://www.sbert.net/) for embedding generation
 - [MongoDB Atlas](https://www.mongodb.com/atlas) for vector storage
 - [python-docx](https://python-docx.readthedocs.io/) for document processing
+
+
