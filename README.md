@@ -28,7 +28,7 @@ Discord RAG Chatbot/
 
 ## 🎥 Demo
 
-[Click here to watch the demo video](Demo_Video/RAG%20Chatbot%20Demo.mp4)
+[Click here to watch the demo video](https://drive.google.com/file/d/1k5qziFEc1tAe0CQwGaSy2gDZh6XIMd9N/view?usp=sharing)
 
 ## 🛠️ Prerequisites
 
